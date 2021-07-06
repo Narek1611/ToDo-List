@@ -1,0 +1,14 @@
+* {
+    background-color: #a6e6ff;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h1 {
+    border: solid black 5px;
+}
+
+.textInput {
+    width: 200px;
+    background-color: white;
+}
